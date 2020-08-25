@@ -24,7 +24,7 @@ Projects
 A simple bot that will help you in your learning and make it more fun.    
 https://github.com/CodePredator01/HYPER_SKILL/tree/master/Projects/SimpleChattyBot
 
-<img src="https://github.com/CodePredator01/HYPER_SKILL/blob/master/SimpleChattyBot/SimpleChattyBot.gif" width="800" height="500" />  
+<img src="https://github.com/CodePredator01/HYPER_SKILL/blob/master/Projects/SimpleChattyBot/SimpleChattyBot.gif" width="800" height="500" />  
 https://hyperskill.org/projects/31
 
 ## Tic-Tac-Toe
