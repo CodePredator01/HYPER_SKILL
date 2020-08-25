@@ -7,10 +7,10 @@ Projects
 
 - [Hyperskill problems](#hyperskill-problems)
 - [Simple Chatty Bot](#simple-chatty-bot)
+- [Tic-Tac-Toe](#tic-tac-toe)
 - [Coffee Machine](#coffee-machine)
 - [Encryption Decryption](#encryption-decryption)
 - [Simple Search Engine](#simple-search-engine)
-- [Tic-Tac-Toe](#tic-tac-toe)
 - [Flashcards](#flashcards)
 - [Readability Score](#readability-score)
 - [Numeral System Converter](#numeral-system-converter)
@@ -22,7 +22,15 @@ Projects
 
 ## Simple Chatty Bot
 A simple bot that will help you in your learning and make it more fun.    
-https://github.com/CodePredator01/HYPER_SKILL/tree/master/SimpleChattyBot
+https://github.com/CodePredator01/HYPER_SKILL/tree/master/Projects/SimpleChattyBot
 
 <img src="https://github.com/CodePredator01/HYPER_SKILL/blob/master/SimpleChattyBot/SimpleChattyBot.gif" width="800" height="500" />  
 https://hyperskill.org/projects/31
+
+## Tic-Tac-Toe
+Developing a version of Tic-Tac-Toe which allows 2 players to play against each other.      
+https://github.com/CodePredator01/HYPER_SKILL/tree/master/Projects/TicTacToe
+
+<img src="https://github.com/CodePredator01/HYPER_SKILL/blob/master/Projects/TicTacToe/Tic-Tac-Toe.gif" width="800" height="500" />  
+
+https://hyperskill.org/projects/48

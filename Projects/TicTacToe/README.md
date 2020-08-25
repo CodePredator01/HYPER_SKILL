@@ -1,8 +1,8 @@
 # hyperskill-TicTacToe
-Developing a version of Tic-Tac-Toe which allows 2 players to play against each other.  
+Developing a  Tic-Tac-Toe Game which allows 2 players to play against each other.  
 https://hyperskill.org/projects/48
 
-<img src="https://github.com/drtierney/hyperskill-TicTacToe/blob/master/Tic-Tac-Toe.gif" width="800" height="500" />
+<img src="https://github.com/CodePredator01/HYPER_SKILL/blob/master/Projects/TicTacToe/Tic-Tac-Toe.gif" width="800" height="500" />
 
 ## Syntax
 ```
